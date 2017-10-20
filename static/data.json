@@ -1,0 +1,44 @@
+{
+  "histogram": [
+    {
+      "name": "html+css",
+      "percent": 90,
+      "color": "#f78"
+    },
+    {
+      "name": "javascript",
+      "percent": 70,
+      "color": "#7a5e14"
+    },
+    {
+      "name": "jQuery",
+      "percent": 75,
+      "color": "#073e21"
+    },
+    {
+      "name": "vue",
+      "percent": 70,
+      "color": "#98cb37"
+    },
+    {
+      "name": "css3",
+      "percent": 70,
+      "color": "#ede518"
+    },
+    {
+      "name": "scss",
+      "percent": 55,
+      "color": "#18edc7"
+    },
+    {
+      "name": "html5",
+      "percent": 50,
+      "color": "#ed4f18"
+    },
+    {
+      "name": "bootstrap",
+      "percent": 50,
+      "color": "#e3ccc4"
+    }
+  ]
+}
